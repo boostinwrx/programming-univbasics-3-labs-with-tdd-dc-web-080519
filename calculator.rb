@@ -1,5 +1,5 @@
-first_number = 1.0
-second_number = 2.0
+first_number = 1
+second_number = 2
 
 def calculator(first_number, second_number)
   sum = 0
