@@ -1,4 +1,8 @@
 first_number = 1
 second_number = 2
 
-first_number + second_number = sum
+def calculator(first_number, second_number)
+ sum = first_number + second_number
+end
+
+calculator(1,5)
